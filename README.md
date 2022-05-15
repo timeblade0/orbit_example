@@ -1,4 +1,4 @@
-# Orbit Example
+# Orbit Code Example
 
 Code example of how to have objects orbiting other objects  
 Created with Game Maker Studio 2  
@@ -10,4 +10,4 @@ X = expand orbit
 Z = contract orbit  
 Space = shoot energy blasts  
 
-![Screenshot](https://github.com/timeblade0/orbit_example/blob/main/screenshot.png)
+![Screenshot](https://github.com/timeblade0/orbit_example/blob/main/screenshot2.png)
