@@ -1,0 +1,6 @@
+Controls:
+-----------------
+WASD or Arrow Keys = move
+X = expand orbit
+Z = contract orbit
+Space = shoot energy blasts
